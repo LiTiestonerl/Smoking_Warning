@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Smoking_Warning
+This is a small project I learned from a video tutorial on using machine learning. I will develop and upgrade this small project with each version. The purpose of this project is to help you gradually quit e-cigarettes and move towards a life without disease.
+>>>>>>> 43c99c10ce5e84d1af94f27e7aa8e436facf434a
