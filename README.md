@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Smoking_Warning
 This is a small project I learned from a video tutorial on using machine learning. I will develop and upgrade this small project with each version. The purpose of this project is to help you gradually quit e-cigarettes and move towards a life without disease.
->>>>>>> 43c99c10ce5e84d1af94f27e7aa8e436facf434a
